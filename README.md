@@ -14,15 +14,15 @@ An interactive Power BI dashboard that analyzes U.S. drug spending trends, presc
 - Drilldowns by State, Drug Category, and Year
 
 ## 🖼️ Dashboard Preview
-[![](screenshots/Screenshot for 2012.png)](screenshots/Screenshot for 2012.png)  
-[![](screenshots/Screenshot for all.png)](screenshots/Screenshot for all.png)
+[![](screenshots/Screenshot_2012.png)](screenshots/Screenshot_2012.png)  
+[![](screenshots/Screenshot_all.png)](screenshots/Screenshot_all.png)
 
 ## 🗂️ Project Structure
 - **dashboard/**
   - pharma_dashboard.pbix
 - **screenshots/**
-  - Screenshot for 2012.png
-  - Screenshot for all.png
+  - Screenshot_2012.png
+  - Screenshot_all.png
 - **README.md**
 
 ## 👩‍💻 Author
